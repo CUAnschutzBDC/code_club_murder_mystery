@@ -65,3 +65,28 @@ Open the file [exercises/exercise9_R_conditions.R](https://github.com/CUAnschutz
 This exercise uses base R so your previous R session will still work.
 
 Open the file [exercises/exercise10_R_vectors.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise10_R_vectors.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 11 The Missing Layers
+This exercise uses R with `ggplot2` so your previous R session will still work.
+
+Open the file [exercises/exercise11_ggplot_layers.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise11_ggplot_layers.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 12 The Overlapping Clue
+This exercise uses R with `ggplot2` so your previous R session will still work.
+
+Open the file [exercises/exercise12_ggplot_color.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise12_ggplot_color.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 13 The Mysterious Mapping
+This exercise uses R with `ggplot2` so your previous R session will still work.
+
+Open the file [exercises/exercise13_ggplot_mapping.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise13_ggplot_mapping.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 14 The Broken X-Axis
+This exercise uses R with `ggplot2` so your previous R session will still work.
+
+Open the file [exercises/exercise14_ggplot_category.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise14_ggplot_category.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 15 The Double-Bar Dilemma
+This exercise uses R with `ggplot2` so your previous R session will still work.
+
+Open the file [exercises/exercise15_ggplot_bar.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise15_ggplot_bar.R) and run the code. An error will show up. Work through this error.
