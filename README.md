@@ -41,6 +41,56 @@ This exercise still uses R with `tidyverse` so your previous R session will stil
 
 Open the file [exercises/exercise5_tidyverse_merge.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise5_tidyverse_merge.R) and run the code. An error will show up. Work through this error.
 
+## Exercise 6 The Index Impersonator
+This exercise uses base R so your previous R session will still work.
+
+Open the file [exercises/exercise6_R_index.R.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise6_R_index.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 7 The Case of the Vanishing Variable
+This exercise uses base R so your previous R session will still work.
+
+Open the file [exercises/exercise7_R_scope.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise7_R_scope.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 8 The Invisible NA
+This exercise uses base R so your previous R session will still work.
+
+Open the file [exercises/exercise8_R_NA.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise8_R_NA.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 9 The Cursed Condition
+This exercise uses base R so your previous R session will still work.
+
+Open the file [exercises/exercise9_R_conditions.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise9_R_conditions.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 10 The Unsorted Alibi
+This exercise uses base R so your previous R session will still work.
+
+Open the file [exercises/exercise10_R_vectors.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise10_R_vectors.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 11 The Missing Layers
+This exercise uses R with `ggplot2` so your previous R session will still work.
+
+Open the file [exercises/exercise11_ggplot_layers.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise11_ggplot_layers.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 12 The Overlapping Clue
+This exercise uses R with `ggplot2` so your previous R session will still work.
+
+Open the file [exercises/exercise12_ggplot_color.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise12_ggplot_color.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 13 The Mysterious Mapping
+This exercise uses R with `ggplot2` so your previous R session will still work.
+
+Open the file [exercises/exercise13_ggplot_mapping.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise13_ggplot_mapping.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 14 The Broken X-Axis
+This exercise uses R with `ggplot2` so your previous R session will still work.
+
+Open the file [exercises/exercise14_ggplot_category.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise14_ggplot_category.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 15 The Double-Bar Dilemma
+This exercise uses R with `ggplot2` so your previous R session will still work.
+
+Open the file [exercises/exercise15_ggplot_bar.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise15_ggplot_bar.R) and run the code. An error will show up. Work through this error.
+
 ## Exercise 16 The missing columns
 This exercise still uses R with `tidyverse` so your previous R session will still work.
 
@@ -70,3 +120,4 @@ Open the file [exercises/exercise20_pivot_longer.R](https://github.com/CUAnschut
 This exercise still uses R with `tidyverse` so your previous R session will still work.
 
 Open the file [exercises/exercise21_ggplot1.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise21_ggplot1.R) and run the code. An error will show up. Work through this error.
+
