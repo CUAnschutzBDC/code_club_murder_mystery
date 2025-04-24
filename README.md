@@ -121,8 +121,8 @@ This exercise still uses R with `tidyverse` so your previous R session will stil
 
 Open the file [exercises/exercise21_ggplot1.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise21_ggplot1.R) and run the code. An error will show up. Work through this error.
 
-## Exercise 22 The circular snake
-This exercise uses snakemake. Make your own directory locally or on Alpine. Make sure you have snakemake installed.
+## Exercise 22 The missing input snake
+This exercise uses `snakemake``. Make your own directory locally or on Alpine. Make sure you have `snakemake` installed.
 
 ```
 conda install bioconda::snakemake
@@ -136,3 +136,74 @@ snakemake -np results/file_two.txt
 
 Look into the file [src/rules/missing_input.snake](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/snakemake/src/rules/missing_input.snake) to solve.
 
+## Exercise 23 Wildcard clash snake
+This exercise uses snakemake. 
+
+For this exercise, move into the `snakemake` directory contained here. Run
+
+```
+snakemake -np results/sample1_processed.txt
+```
+
+Look into the file [src/rules/wildcard_clash.snake](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/src/rules/wildcard_clash.snake) to solve.
+
+## Exercise 24 Confused wildcard snake
+This exercise uses snakemake. 
+
+For this exercise, move into the `snakemake` directory contained here. Run
+
+```
+snakemake -np results/sample3_final.txt
+```
+
+Look into the file [/snakemake/src/rules/confused_wildcards.snake](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main//snakemake/src/rules/confused_wildcards.snake) to solve.
+
+## Exercise 25 Circular dependency snake
+This exercise uses snakemake. 
+
+For this exercise, move into the `snakemake` directory contained here. Run
+
+```
+snakemake -np results/sample2.txt
+```
+
+Look into the file [/snakemake/src/rules/confused_wildcards.snake](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main//snakemake/src/rules/circular_dependency.snake) to solve.
+
+## Exercise 26 Missing config key snake
+This exercise uses snakemake. 
+
+For this exercise uncomment the line in Snakemake:
+
+```
+#include: "src/rules/missing_config_key.snake"
+```
+
+Next, run:
+
+```
+snakemake -np results/sample.txt
+```
+
+Look into the file [/snakemake/src/rules/confused_wildcards.snake](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main//snakemake/src/rules/missing_config_key.snake) to solve.
+
+## Exercise 27 Output clash snake
+This exercise uses snakemake. 
+
+For this exercise, move into the `snakemake` directory contained here. Run
+
+```
+snakemake -np results/sample1.txt
+```
+
+Look into the file [/snakemake/src/rules/confused_wildcards.snake](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main//snakemake/src/rules/output_clash.snake) to solve.
+
+## Exercise 28 Phantom output snake
+This exercise uses snakemake. 
+
+For this exercise, move into the `snakemake` directory contained here. Run
+
+```
+snakemake -np results/sample3.txt
+```
+
+Look into the file [/snakemake/src/rules/confused_wildcards.snake](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main//snakemake/src/rules/phantom_output.snake) to solve.

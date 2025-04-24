@@ -1,0 +1,7 @@
+rule clashing_cards_one:
+    output: "results/{sample}_processed.txt"
+    shell: "echo 'Process 1' > {output}"
+
+rule clashing_cards_two:
+    output: "results/{sample}_processed.txt"
+    shell: "echo 'Process 2' > {output}"

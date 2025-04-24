@@ -2,6 +2,6 @@ rule use_missing_config_key:
     output:
         "results/sample.txt"
     params:
-        ref=config["ref_path"]  # <- key doesn't exist in config.yaml
+        ref=config["ref_path"]
     shell:
         "echo {ref} > {output}"

@@ -1,0 +1,27 @@
+rule wildcards_one:
+	output:
+		"results/sample1.txt"
+	shell:
+		"""
+		echo "sample 1" > {output}
+		"""
+
+rule wildcards_two:
+	output:
+		"results/sample2.txt"
+	shell:
+		"""
+		echo "sample 2" > {output}
+		"""
+
+rule wildcards_three:
+	input:
+		"results/{sample}.txt"
+	output:
+		"results/{sample}_final.txt"
+	shell:
+		"""
+		cp {input} {output}
+		echo "finished processing" >> {output}
+		"""
+

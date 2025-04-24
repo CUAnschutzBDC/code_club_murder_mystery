@@ -1,3 +1,8 @@
 
 
 include: "src/rules/missing_input.snake"
+#include: "src/rules/missing_config_key.snake"
+include: "src/rules/confused_wildcards.snake"
+include: "src/rules/output_clash.snake"
+include: "src/rules/circular_dependency.snake"
+include: "src/rules/wildcard_clash.snake"

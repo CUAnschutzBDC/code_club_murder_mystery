@@ -1,0 +1,15 @@
+rule loop_a:
+    input:
+        "results/sample2_b.txt"
+    output:
+        "results/sample2.txt"
+    shell:
+        "cp {input} {output}"
+
+rule loop_b:
+    input:
+        "results/sample2.txt"
+    output:
+        "results/sample2_b.txt"
+    shell:
+        "cp {input} {output}"

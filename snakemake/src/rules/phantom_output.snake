@@ -1,0 +1,7 @@
+rule phantom:
+    input:
+        "data/sample3.txt"
+    output:
+        "results/sample3_done.txt"
+    shell:
+        "echo Processing {input}" 

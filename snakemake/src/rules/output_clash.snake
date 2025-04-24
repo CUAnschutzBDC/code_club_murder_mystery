@@ -1,0 +1,11 @@
+rule process1:
+    output:
+        "results/sample1.txt"
+    shell:
+        "echo Process 1 > {output}"
+
+rule process2:
+    output:
+        "results/sample1.txt"
+    shell:
+        "echo Process 2 > {output}"
