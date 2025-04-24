@@ -1,3 +1,4 @@
 .*
 !.gitignore
 answers
+.Rproj.user
