@@ -24,20 +24,44 @@ Then open the file [exercises/exercise1_tidyverse_select.R](https://github.com/C
 ## Exercise 2 The Filter Fiasco
 This exercise still uses R with `tidyverse` so your previous R session will still work.
 
-Open the file [exervises/exercise2_tidyverse_filter.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise2_tidyverse_filter.R) and run the code. An error will show up. Work through this error.
+Open the file [exercises/exercise2_tidyverse_filter.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise2_tidyverse_filter.R) and run the code. An error will show up. Work through this error.
 
 ## Exercise 3 The group by ghost
 This exercise still uses R with `tidyverse` so your previous R session will still work.
 
-Open the file [exervises/exercise3_tidyverse_group.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise3_tidyverse_group.R) and run the code. An error will show up. Work through this error.
+Open the file [exercises/exercise3_tidyverse_group.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise3_tidyverse_group.R) and run the code. An error will show up. Work through this error.
 
 ## Exercise 4 The pipeline puzzle
 This exercise still uses R with `tidyverse` so your previous R session will still work.
 
-Open the file [exervises/exercise4_tidyverse_pipe.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise4_tidyverse_pipe.R) and run the code. An error will show up. Work through this error.
+Open the file [exercises/exercise4_tidyverse_pipe.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise4_tidyverse_pipe.R) and run the code. An error will show up. Work through this error.
 
 ## Exercise 5 The merge mystery
 This exercise still uses R with `tidyverse` so your previous R session will still work.
 
-Open the file [exervises/exercise5_tidyverse_merge.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise5_tidyverse_merge.R) and run the code. An error will show up. Work through this error.
+Open the file [exercises/exercise5_tidyverse_merge.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise5_tidyverse_merge.R) and run the code. An error will show up. Work through this error.
 
+## Exercise 6 The Index Impersonator
+This exercise uses base R so your previous R session will still work.
+
+Open the file [exercises/exercise6_R_index.R.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise6_R_index.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 7 The Case of the Vanishing Variable
+This exercise uses base R so your previous R session will still work.
+
+Open the file [exercises/exercise7_R_scope.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise7_R_scope.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 8 The Invisible NA
+This exercise uses base R so your previous R session will still work.
+
+Open the file [exercises/exercise8_R_NA.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise8_R_NA.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 9 The Cursed Condition
+This exercise uses base R so your previous R session will still work.
+
+Open the file [exercises/exercise9_R_conditions.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise9_R_conditions.R) and run the code. An error will show up. Work through this error.
+
+## Exercise 10 The Unsorted Alibi
+This exercise uses base R so your previous R session will still work.
+
+Open the file [exercises/exercise10_R_vectors.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise10_R_vectors.R) and run the code. An error will show up. Work through this error.
