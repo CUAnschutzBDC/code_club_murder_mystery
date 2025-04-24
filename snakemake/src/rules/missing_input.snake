@@ -1,0 +1,17 @@
+rule missing_input_one:
+	output: 
+		"results/file_one.txt"
+	shell:
+		"""
+		echo "file complete" > {output}
+		"""
+
+rule missing_input_two:
+	input:
+		"results/file_1.txt"
+	output:
+		"results/file_two.txt"
+	shell:
+		"""
+		echo "this is the best file" > {output}
+		"""

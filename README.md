@@ -121,3 +121,18 @@ This exercise still uses R with `tidyverse` so your previous R session will stil
 
 Open the file [exercises/exercise21_ggplot1.R](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/exercises/exercise21_ggplot1.R) and run the code. An error will show up. Work through this error.
 
+## Exercise 22 The circular snake
+This exercise uses snakemake. Make your own directory locally or on Alpine. Make sure you have snakemake installed.
+
+```
+conda install bioconda::snakemake
+```
+
+For this exercise, move into the `snakemake` directory contained here. Run
+
+```
+snakemake -np results/file_two.txt
+```
+
+Look into the file [src/rules/missing_input.snake](https://github.com/CUAnschutzBDC/code_club_murder_mystery/blob/main/snakemake/src/rules/missing_input.snake) to solve.
+
